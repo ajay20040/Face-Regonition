@@ -17,7 +17,8 @@ This application combines facial recognition technology with conversational AI t
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](./docs/architecture-diagram.png)
+![architecture_diagram1](https://github.com/user-attachments/assets/87dd065b-488f-4aab-8630-2788aa85a15e)
+
 
 *Add your architecture diagram showing the flow between React → Node.js → Python components*
 
