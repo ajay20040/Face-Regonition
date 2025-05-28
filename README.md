@@ -1,4 +1,3 @@
-# Face-Regonition
 # Face Recognition Platform with Real-Time AI Q&A
 
 A browser-based platform that enables users to register their faces and recognize them in real-time using laptop camera streams, enhanced with an AI-powered chat interface using RAG (Retrieval-Augmented Generation).
